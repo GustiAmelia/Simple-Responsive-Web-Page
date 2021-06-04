@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Responsive-Web-Page/static/css/main.419c1bed.chunk.css",
+    "main.js": "/Simple-Responsive-Web-Page/static/js/main.4581836f.chunk.js",
+    "main.js.map": "/Simple-Responsive-Web-Page/static/js/main.4581836f.chunk.js.map",
+    "runtime-main.js": "/Simple-Responsive-Web-Page/static/js/runtime-main.3245d900.js",
+    "runtime-main.js.map": "/Simple-Responsive-Web-Page/static/js/runtime-main.3245d900.js.map",
+    "static/js/2.5b8217e4.chunk.js": "/Simple-Responsive-Web-Page/static/js/2.5b8217e4.chunk.js",
+    "static/js/2.5b8217e4.chunk.js.map": "/Simple-Responsive-Web-Page/static/js/2.5b8217e4.chunk.js.map",
+    "static/js/3.c499a84a.chunk.js": "/Simple-Responsive-Web-Page/static/js/3.c499a84a.chunk.js",
+    "static/js/3.c499a84a.chunk.js.map": "/Simple-Responsive-Web-Page/static/js/3.c499a84a.chunk.js.map",
+    "index.html": "/Simple-Responsive-Web-Page/index.html",
+    "static/css/main.419c1bed.chunk.css.map": "/Simple-Responsive-Web-Page/static/css/main.419c1bed.chunk.css.map",
+    "static/js/2.5b8217e4.chunk.js.LICENSE.txt": "/Simple-Responsive-Web-Page/static/js/2.5b8217e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3245d900.js",
+    "static/js/2.5b8217e4.chunk.js",
+    "static/css/main.419c1bed.chunk.css",
+    "static/js/main.4581836f.chunk.js"
+  ]
+}
